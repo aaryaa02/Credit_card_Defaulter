@@ -18,8 +18,8 @@ def get_requirements(filepath:str)->List[str]:
 setup(
     name="defalter of credit card",
     version="1.1",
-    author="yash mohite",
-    author_email="mohite.yassh@gamil.com",
+    author="Arya Dixit",
+    author_email="aaryastud@gamil.com",
     packages=find_packages(),
     install_requires = get_requirements("requirements.txt")
 )
